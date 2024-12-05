@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\JonathanGarnier\AppData\Local\Temp\Releases\Snapshot\1\rpi_pico_2_hat.PcbDoc
+RuleKind=Width|RuleName=RF Width_1|Scope=Board|Minimum=4.18
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=RF Width|Scope=Board|Minimum=4.18
+RuleKind=Clearance|RuleName=Clearance_USB|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_RF_Poly|Scope=Board|Minimum=10.00
